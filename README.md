@@ -20,5 +20,6 @@ Register: <https://hacktoberfest.digitalocean.com/>
 
 | Name | GitHub Handle | Branch | Year |
 |------|---------------|--------|------|
+| Abhijeet Singh | [cseas](https://github.com/cseas) | CSE | III |
 
 *Add your information above using appropriate syntax.*
