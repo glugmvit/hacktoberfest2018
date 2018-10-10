@@ -22,5 +22,6 @@ Register: <https://hacktoberfest.digitalocean.com/>
 |------|---------------|--------|------|
 | Abhijeet Singh | [cseas](https://github.com/cseas) | CSE | III |
 | Nasir Basha K | [nasirbashak](https://github.com/nasirbashak) | CSE |III|
+| Nikhil Joshi | [diehard-coder](https://github.com/diehard-coder) | CSE | II |
 
 *Add your information above using appropriate syntax.*
