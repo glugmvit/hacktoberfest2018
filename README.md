@@ -23,5 +23,8 @@ Register: <https://hacktoberfest.digitalocean.com/>
 | Abhijeet Singh | [cseas](https://github.com/cseas) | CSE | III |
 | Nasir Basha K | [nasirbashak](https://github.com/nasirbashak) | CSE |III|
 | Nikhil Joshi | [diehard-coder](https://github.com/diehard-coder) | CSE | II |
+| Aditya Raman | [ramanaditya](https://github.com/ramanaditya) | CSE | II |
+| Syed Sharjil Ahmed| [syedsharil](https://github.com/syedsharjil) | TE |II|
+| Aswin Gopinathan | [infiniteoverflow](https://github.com/infiniteoverflow) | CSE | II |
 
 *Add your information above using appropriate syntax.*
