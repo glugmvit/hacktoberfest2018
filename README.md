@@ -39,6 +39,7 @@ Register: <https://hacktoberfest.digitalocean.com/>
 | Aishwarya Varma |  [AishwaryaVarma](https://github.com/aishwaryavarma) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/AishwaryaVarma) | 
 | Aditya Mondal | [Aditya](https://github.com/aa-deet-eeya) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/aa-deet-eeya) |
 | Aishwarya Varma |  [AishwaryaVarma](https://github.com/aishwaryavarma) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/AishwaryaVarma) |
+| Ritesh Kumar | [rk301999](https://github.com/rk301999) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/rk301999) |
 | Priya Ranjan Dubey |  [TechiePriyaRanjan](https://github.com/TechiePriyaRanjan/) | Creative Coding | [Link](https://hacktoberfest.digitalocean.com/stats/TechiePriyaRanjan) |
 | Ravikesh Yadav |  [ravikesh4](https://github.com/ravikesh4) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/ravikesh4) |
 | Sachin Ralpati | [Sachin043](https://github.com/Sachin043) | Sir Mvit | [Link](https://hacktoberfest.digitalocean.com/stats/Sachin043) |
