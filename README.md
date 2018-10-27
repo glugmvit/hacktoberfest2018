@@ -22,6 +22,14 @@ Register: <https://hacktoberfest.digitalocean.com/>
 
 | Name | GitHub Handle | Organisation | Stats |
 |------|---------------|--------|------|
+| Abhijeet Singh | [cseas](https://github.com/cseas) | CSE | III |
+| Nasir Basha K | [nasirbashak](https://github.com/nasirbashak) | CSE |III|
+| Nikhil Joshi | [diehard-coder](https://github.com/diehard-coder) | CSE | II |
+| Aditya Raman | [ramanaditya](https://github.com/ramanaditya) | CSE | II |
+| Syed Sharjil Ahmed| [syedsharil](https://github.com/syedsharjil) | TE |II|
+| Aswin Gopinathan | [infiniteoverflow](https://github.com/infiniteoverflow) | CSE | II |
+| Aishwarya Varma |  [AishwaryaVarma](https://github.com/aishwaryavarma) | CSE | II |
+| Ruchika Jain | [ruchika-jain](https://github.com/ruchika-jain) | ISE | II |
 | Abhijeet Singh | [cseas](https://github.com/cseas) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/cseas) |
 | Nasir Basha K | [nasirbashak](https://github.com/nasirbashak) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/nasirbashak) |
 | Nikhil Joshi | [diehard-coder](https://github.com/diehard-coder) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/diehard-coder) |
