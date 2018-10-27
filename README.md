@@ -28,6 +28,12 @@ Register: <https://hacktoberfest.digitalocean.com/>
 | Aditya Raman | [ramanaditya](https://github.com/ramanaditya) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/ramanaditya) |
 | Syed Sharjil Ahmed| [syedsharjil](https://github.com/syedsharjil) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/syedsharjil) |
 | Aswin Gopinathan | [infiniteoverflow](https://github.com/infiniteoverflow) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/infiniteoverflow) |
+| Aishwarya Varma |  [AishwaryaVarma](https://github.com/aishwaryavarma) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/AishwaryaVarma) | 
+| Aditya Mondal | [Aditya](https://github.com/aa-deet-eeya) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/aa-deet-eeya) |
 | Aishwarya Varma |  [AishwaryaVarma](https://github.com/aishwaryavarma) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/AishwaryaVarma) |
 | Bhargav Krishna|  [Bhargav Krishna](https://github.com/blackdaddy1) | . | [Link](https://hacktoberfest.digitalocean.com/stats/blackdaddy1) |
+| Anand Chembarpu | [aanndch](http://github.com/aanndch) | VVCE | [Link](https://hacktoberfest.digitalocean.com/stats/AnandChembarpu) |
+| Akhil Ramachandran | [akhil2109](https://github.com/akhil2109) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/akhil2109) | 
+| Sravan Paritala |  [sravanbrahma](https://github.com/sravanbrahma) | IBM | [Link](https://hacktoberfest.digitalocean.com/stats/sravanbrahma) |
+
 *Add your information above using appropriate syntax.*
