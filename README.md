@@ -43,5 +43,5 @@ Register: <https://hacktoberfest.digitalocean.com/>
 | Akhil Ramachandran | [akhil2109](https://github.com/akhil2109) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/akhil2109) | 
 | Sravan Paritala |  [sravanbrahma](https://github.com/sravanbrahma) | IBM | [Link](https://hacktoberfest.digitalocean.com/stats/sravanbrahma) |
 | Hemant Goswami | [heyiamhemant](https://github.com/heyiamhemant) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/heyiamhemant) |
-
+| Akash Lal | [akashashu1799](https://github.com/akashashu1799) |ISE | II |[Link](https://hacktoberfest.digitalocean.com/stats/akashashu1799) |
 *Add your information above using appropriate syntax.*
