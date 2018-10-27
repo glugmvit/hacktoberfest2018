@@ -30,5 +30,7 @@ Register: <https://hacktoberfest.digitalocean.com/>
 | Aswin Gopinathan | [infiniteoverflow](https://github.com/infiniteoverflow) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/infiniteoverflow) |
 | Aishwarya Varma |  [AishwaryaVarma](https://github.com/aishwaryavarma) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/AishwaryaVarma) |
 | Anand Chembarpu | [aanndch](http://github.com/aanndch) | VVCE | [Link](https://hacktoberfest.digitalocean.com/stats/AnandChembarpu) |
+| Akhil Ramachandran | [akhil2109](https://github.com/akhil2109) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/akhil2109) | 
+| Sravan Paritala |  [sravanbrahma](https://github.com/sravanbrahma) | IBM | [Link]	(https://hacktoberfest.digitalocean.com/stats/sravanbrahma) |
 
 *Add your information above using appropriate syntax.*
