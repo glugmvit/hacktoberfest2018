@@ -1,7 +1,9 @@
 # hacktoberfest2018
-GLUG MVIT Hacktoberfest 2018 - Participants
+Hacktoberfest 2018 - Participants
 
 Register: <https://hacktoberfest.digitalocean.com/>
+
+**Bonus**: Microsoft is also participating in Hacktoberfest this year. Follow the instructions [here](https://open.microsoft.com/2018/09/30/join-hacktoberfest-2018-celebration-microsoft/) to get a separate exclusive t-shirt from them.
 
 ---
 ## Resources for Beginners
@@ -18,7 +20,7 @@ Register: <https://hacktoberfest.digitalocean.com/>
 ---
 ## Participants
 
-| Name | GitHub Handle | Branch | Year |
+| Name | GitHub Handle | Organisation | Stats |
 |------|---------------|--------|------|
 | Abhijeet Singh | [cseas](https://github.com/cseas) | CSE | III |
 | Nasir Basha K | [nasirbashak](https://github.com/nasirbashak) | CSE |III|
@@ -28,5 +30,19 @@ Register: <https://hacktoberfest.digitalocean.com/>
 | Aswin Gopinathan | [infiniteoverflow](https://github.com/infiniteoverflow) | CSE | II |
 | Aishwarya Varma |  [AishwaryaVarma](https://github.com/aishwaryavarma) | CSE | II |
 | Ruchika Jain | [ruchika-jain](https://github.com/ruchika-jain) | ISE | II |
+| Abhijeet Singh | [cseas](https://github.com/cseas) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/cseas) |
+| Nasir Basha K | [nasirbashak](https://github.com/nasirbashak) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/nasirbashak) |
+| Nikhil Joshi | [diehard-coder](https://github.com/diehard-coder) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/diehard-coder) |
+| Aditya Raman | [ramanaditya](https://github.com/ramanaditya) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/ramanaditya) |
+| Syed Sharjil Ahmed| [syedsharjil](https://github.com/syedsharjil) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/syedsharjil) |
+| Aswin Gopinathan | [infiniteoverflow](https://github.com/infiniteoverflow) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/infiniteoverflow) |
+| Aishwarya Varma |  [AishwaryaVarma](https://github.com/aishwaryavarma) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/AishwaryaVarma) | 
+| Aditya Mondal | [Aditya](https://github.com/aa-deet-eeya) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/aa-deet-eeya) |
+| Aishwarya Varma |  [AishwaryaVarma](https://github.com/aishwaryavarma) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/AishwaryaVarma) |
+| Prabal Gupta | [Prabalgupta](https://github.com/prabalgup) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/prabalgupta) |
+| Bhargav Krishna|  [Bhargav Krishna](https://github.com/blackdaddy1) | . | [Link](https://hacktoberfest.digitalocean.com/stats/blackdaddy1) |
+| Anand Chembarpu | [aanndch](http://github.com/aanndch) | VVCE | [Link](https://hacktoberfest.digitalocean.com/stats/AnandChembarpu) |
+| Akhil Ramachandran | [akhil2109](https://github.com/akhil2109) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/akhil2109) | 
+| Sravan Paritala |  [sravanbrahma](https://github.com/sravanbrahma) | IBM | [Link](https://hacktoberfest.digitalocean.com/stats/sravanbrahma) |
 
 *Add your information above using appropriate syntax.*
