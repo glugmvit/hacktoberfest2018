@@ -29,5 +29,5 @@ Register: <https://hacktoberfest.digitalocean.com/>
 | Syed Sharjil Ahmed| [syedsharjil](https://github.com/syedsharjil) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/syedsharjil) |
 | Aswin Gopinathan | [infiniteoverflow](https://github.com/infiniteoverflow) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/infiniteoverflow) |
 | Aishwarya Varma |  [AishwaryaVarma](https://github.com/aishwaryavarma) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/AishwaryaVarma) |
-
+| Sachin Ralpati | [Sachin043](https://github.com/Sachin043) | Sir Mvit | [Link](https://hacktoberfest.digitalocean.com/stats/Sachin043) |
 *Add your information above using appropriate syntax.*
