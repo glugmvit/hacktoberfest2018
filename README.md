@@ -22,21 +22,12 @@ Register: <https://hacktoberfest.digitalocean.com/>
 
 | Name | GitHub Handle | Organisation | Stats |
 |------|---------------|--------|------|
-| Abhijeet Singh | [cseas](https://github.com/cseas) | CSE | III |
-| Nasir Basha K | [nasirbashak](https://github.com/nasirbashak) | CSE |III|
-| Nikhil Joshi | [diehard-coder](https://github.com/diehard-coder) | CSE | II |
-| Aditya Raman | [ramanaditya](https://github.com/ramanaditya) | CSE | II |
-| Syed Sharjil Ahmed| [syedsharil](https://github.com/syedsharjil) | TE |II|
-| Aswin Gopinathan | [infiniteoverflow](https://github.com/infiniteoverflow) | CSE | II |
-| Aishwarya Varma |  [AishwaryaVarma](https://github.com/aishwaryavarma) | CSE | II |
-| Ruchika Jain | [ruchika-jain](https://github.com/ruchika-jain) | ISE | II |
 | Abhijeet Singh | [cseas](https://github.com/cseas) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/cseas) |
 | Nasir Basha K | [nasirbashak](https://github.com/nasirbashak) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/nasirbashak) |
 | Nikhil Joshi | [diehard-coder](https://github.com/diehard-coder) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/diehard-coder) |
 | Aditya Raman | [ramanaditya](https://github.com/ramanaditya) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/ramanaditya) |
 | Syed Sharjil Ahmed| [syedsharjil](https://github.com/syedsharjil) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/syedsharjil) |
 | Aswin Gopinathan | [infiniteoverflow](https://github.com/infiniteoverflow) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/infiniteoverflow) |
-| Aishwarya Varma |  [AishwaryaVarma](https://github.com/aishwaryavarma) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/AishwaryaVarma) | 
 | Aditya Mondal | [Aditya](https://github.com/aa-deet-eeya) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/aa-deet-eeya) |
 | Aishwarya Varma |  [AishwaryaVarma](https://github.com/aishwaryavarma) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/AishwaryaVarma) |
 | Ritesh Kumar | [rk301999](https://github.com/rk301999) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/rk301999) |
@@ -45,6 +36,7 @@ Register: <https://hacktoberfest.digitalocean.com/>
 | Sachin Ralpati | [Sachin043](https://github.com/Sachin043) | Sir Mvit | [Link](https://hacktoberfest.digitalocean.com/stats/Sachin043) |
 | Chandrashekar Dasari | [chandrasd](https://github.com/chandrsd) | VVCE | [Link](https://hacktoberfest.digitalocean.com/stats/chandrasd)
 | Mohit Sinha | [mohitsinha04](https://github.com/mohitsinha04) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/mohitsinha04) |
+| Ruchika Jain | [ruchika-jain](https://github.com/ruchika-jain) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/ruchika-jain) |
 | Prabal Gupta | [Prabalgupta](https://github.com/prabalgup) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/prabalgupta) |
 | Bhargav Krishna|  [Bhargav Krishna](https://github.com/blackdaddy1) | . | [Link](https://hacktoberfest.digitalocean.com/stats/blackdaddy1) |
 | Anand Chembarpu | [aanndch](http://github.com/aanndch) | VVCE | [Link](https://hacktoberfest.digitalocean.com/stats/AnandChembarpu) |
