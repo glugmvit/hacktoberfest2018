@@ -1,5 +1,5 @@
 # hacktoberfest2018
-GLUG MVIT Hacktoberfest 2018 - Participants
+Hacktoberfest 2018 - Participants
 
 Register: <https://hacktoberfest.digitalocean.com/>
 
@@ -18,14 +18,14 @@ Register: <https://hacktoberfest.digitalocean.com/>
 ---
 ## Participants
 
-| Name | GitHub Handle | Branch | Year |
+| Name | GitHub Handle | Organisation | Stats |
 |------|---------------|--------|------|
-| Abhijeet Singh | [cseas](https://github.com/cseas) | CSE | III |
-| Nasir Basha K | [nasirbashak](https://github.com/nasirbashak) | CSE |III|
-| Nikhil Joshi | [diehard-coder](https://github.com/diehard-coder) | CSE | II |
-| Aditya Raman | [ramanaditya](https://github.com/ramanaditya) | CSE | II |
-| Syed Sharjil Ahmed| [syedsharil](https://github.com/syedsharjil) | TE |II|
-| Aswin Gopinathan | [infiniteoverflow](https://github.com/infiniteoverflow) | CSE | II |
-| Aishwarya Varma |  [AishwaryaVarma](https://github.com/aishwaryavarma) | CSE | II |
+| Abhijeet Singh | [cseas](https://github.com/cseas) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/cseas) |
+| Nasir Basha K | [nasirbashak](https://github.com/nasirbashak) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/nasirbashak) |
+| Nikhil Joshi | [diehard-coder](https://github.com/diehard-coder) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/diehard-coder) |
+| Aditya Raman | [ramanaditya](https://github.com/ramanaditya) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/ramanaditya) |
+| Syed Sharjil Ahmed| [syedsharjil](https://github.com/syedsharjil) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/syedsharjil) |
+| Aswin Gopinathan | [infiniteoverflow](https://github.com/infiniteoverflow) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/infiniteoverflow) |
+| Aishwarya Varma |  [AishwaryaVarma](https://github.com/aishwaryavarma) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/AishwaryaVarma) |
 
 *Add your information above using appropriate syntax.*
