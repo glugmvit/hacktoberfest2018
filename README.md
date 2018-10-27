@@ -30,8 +30,9 @@ Register: <https://hacktoberfest.digitalocean.com/>
 | Aswin Gopinathan | [infiniteoverflow](https://github.com/infiniteoverflow) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/infiniteoverflow) |
 | Aditya Mondal | [Aditya](https://github.com/aa-deet-eeya) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/aa-deet-eeya) |
 | Aishwarya Varma |  [AishwaryaVarma](https://github.com/aishwaryavarma) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/AishwaryaVarma) |
+| Prarthana M J | [PrarthanaMJ](https://github.com/Prarthana29) | IBM | [Link](https://github.com/Prarthana29/hacktoberfest2018) |
 | Ritesh Kumar | [rk301999](https://github.com/rk301999) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/rk301999) |
-| Priya Ranjan Dubey |  [TechiePriyaRanjan](https://github.com/TechiePriyaRanjan/) | Creative Coding | [Link](https://hacktoberfest.digitalocean.com/stats/TechiePriyaRanjan) |
+| Priya Ranjan Dubey | [TechiePriyaRanjan](https://github.com/TechiePriyaRanjan/) | Creative Coding | [Link](https://hacktoberfest.digitalocean.com/stats/TechiePriyaRanjan) |
 | Ravikesh Yadav |  [ravikesh4](https://github.com/ravikesh4) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/ravikesh4) |
 | Sachin Ralpati | [Sachin043](https://github.com/Sachin043) | Sir Mvit | [Link](https://hacktoberfest.digitalocean.com/stats/Sachin043) |
 | Chandrashekar Dasari | [chandrasd](https://github.com/chandrsd) | VVCE | [Link](https://hacktoberfest.digitalocean.com/stats/chandrasd)
@@ -44,4 +45,5 @@ Register: <https://hacktoberfest.digitalocean.com/>
 | Sravan Paritala |  [sravanbrahma](https://github.com/sravanbrahma) | IBM | [Link](https://hacktoberfest.digitalocean.com/stats/sravanbrahma) |
 | Hemant Goswami | [heyiamhemant](https://github.com/heyiamhemant) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/heyiamhemant) |
 | Akash Lal | [akashashu1799](https://github.com/akashashu1799) |ISE | II |[Link](https://hacktoberfest.digitalocean.com/stats/akashashu1799) |
+
 *Add your information above using appropriate syntax.*
