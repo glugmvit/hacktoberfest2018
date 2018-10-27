@@ -11,7 +11,7 @@ Register: <https://hacktoberfest.digitalocean.com/>
 - [issuehub.io](http://issuehub.io/) - Contribute to Open Source. Search issue labels to find the right project for you!
 - [First Timers Only](http://www.firsttimersonly.com/) - Friendly Open Source projects should reserve specific issues for newbies.
 - [Your First PR](http://yourfirstpr.github.io/) - Start contributing to Open Source with great starter issues on GitHub and elsewhere.
-- [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
+- [Awesome First PR Opportunities](https://github.com/Mun/Users/mohitsinhaGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
 - [Codetriange](https://www.codetriage.com/) - Help out your favorite open source projects and become a better developer while doing it.
 - [Pull Request Roulette](http://PullRequestRoulette.com) - Pull requests (or PRs) submitted for review.
 
@@ -39,6 +39,7 @@ Register: <https://hacktoberfest.digitalocean.com/>
 | Aishwarya Varma |  [AishwaryaVarma](https://github.com/aishwaryavarma) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/AishwaryaVarma) | 
 | Aditya Mondal | [Aditya](https://github.com/aa-deet-eeya) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/aa-deet-eeya) |
 | Aishwarya Varma |  [AishwaryaVarma](https://github.com/aishwaryavarma) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/AishwaryaVarma) |
+| Mohit Sinha | [mohitsinha04](https://github.com/mohitsinha04) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/mohitsinha04) |
 | Prabal Gupta | [Prabalgupta](https://github.com/prabalgup) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/prabalgupta) |
 | Bhargav Krishna|  [Bhargav Krishna](https://github.com/blackdaddy1) | . | [Link](https://hacktoberfest.digitalocean.com/stats/blackdaddy1) |
 | Anand Chembarpu | [aanndch](http://github.com/aanndch) | VVCE | [Link](https://hacktoberfest.digitalocean.com/stats/AnandChembarpu) |
