@@ -3,6 +3,8 @@ Hacktoberfest 2018 - Participants
 
 Register: <https://hacktoberfest.digitalocean.com/>
 
+**Bonus**: Microsoft is also participating in Hacktoberfest this year. Follow the instructions [here](https://open.microsoft.com/2018/09/30/join-hacktoberfest-2018-celebration-microsoft/) to get a separate exclusive t-shirt from them.
+
 ---
 ## Resources for Beginners
 - [Up For Grabs](http://up-for-grabs.net/) - List of projects which have curated tasks specifically for new contributors.
