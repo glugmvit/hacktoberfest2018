@@ -31,5 +31,4 @@ Register: <https://hacktoberfest.digitalocean.com/>
 | Aishwarya Varma |  [AishwaryaVarma](https://github.com/aishwaryavarma) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/AishwaryaVarma) |
 | Chandrashekar Dasari | [chandrasd](https://github.com/chandrsd) | VVCE | [Link](https://hacktoberfest.digitalocean.com/stats/chandrasd)
 
-
 *Add your information above using appropriate syntax.*
