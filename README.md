@@ -11,7 +11,7 @@ Register: <https://hacktoberfest.digitalocean.com/>
 - [issuehub.io](http://issuehub.io/) - Contribute to Open Source. Search issue labels to find the right project for you!
 - [First Timers Only](http://www.firsttimersonly.com/) - Friendly Open Source projects should reserve specific issues for newbies.
 - [Your First PR](http://yourfirstpr.github.io/) - Start contributing to Open Source with great starter issues on GitHub and elsewhere.
-- [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
+- [Awesome First PR Opportunities](https://github.com/Mun/Users/mohitsinhaGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
 - [Codetriange](https://www.codetriage.com/) - Help out your favorite open source projects and become a better developer while doing it.
 - [Pull Request Roulette](http://PullRequestRoulette.com) - Pull requests (or PRs) submitted for review.
 
@@ -29,5 +29,6 @@ Register: <https://hacktoberfest.digitalocean.com/>
 | Syed Sharjil Ahmed| [syedsharjil](https://github.com/syedsharjil) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/syedsharjil) |
 | Aswin Gopinathan | [infiniteoverflow](https://github.com/infiniteoverflow) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/infiniteoverflow) |
 | Aishwarya Varma |  [AishwaryaVarma](https://github.com/aishwaryavarma) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/AishwaryaVarma) |
+| Mohit Sinha | [mohitsinha04](https://github.com/mohitsinha04) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/mohitsinha04) |
 
 *Add your information above using appropriate syntax.*
