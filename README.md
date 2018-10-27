@@ -27,5 +27,6 @@ Register: <https://hacktoberfest.digitalocean.com/>
 | Syed Sharjil Ahmed| [syedsharil](https://github.com/syedsharjil) | TE |II|
 | Aswin Gopinathan | [infiniteoverflow](https://github.com/infiniteoverflow) | CSE | II |
 | Aishwarya Varma |  [AishwaryaVarma](https://github.com/aishwaryavarma) | CSE | II |
+| Ruchika Jain | [ruchika-jain](https://github.com/ruchika-jain) | ISE | II |
 
 *Add your information above using appropriate syntax.*
