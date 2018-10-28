@@ -46,5 +46,7 @@ Register: <https://hacktoberfest.digitalocean.com/>
 | Hemant Goswami | [heyiamhemant](https://github.com/heyiamhemant) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/heyiamhemant) |
 | Masoomi Saxena | [masoomi-saxena](https://github.com/masoomi-saxena) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/masoomi-saxena) |
 | Akash Lal | [akashashu1799](https://github.com/akashashu1799) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/akashashu1799) |
+| Akhil Kashetty | [akhilkasetty](https://github.com/akhilkasetty) | Sir MVIT | [Link](https://hacktoberfest.digitalocean.com/stats/akhilkasetty)|
+
 
 *Add your information above using appropriate syntax.*
